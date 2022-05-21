@@ -2,8 +2,6 @@
 Hi Friend
 # [WIP Game](http://www.youtube.com/watch?v=-KmMpRVATLc)
   [![](http://img.youtube.com/vi/-KmMpRVATLc/mqdefault.jpg)](http://www.youtube.com/watch?v=-KmMpRVATLc "")
-# Houdini HDK
-  https://github.com/thu0x31/HDKSentaiThuthuthu
 # g a tttttttt
 <img src="https://github.com/thu0x31/thu0x31/blob/master/reactionDiffusion.gif?raw=true" height="280"> <img src="https://github.com/thu0x31/gumbel_DW/raw/main/shadertoy22.png?raw=true" height="280">
 
